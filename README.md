@@ -40,3 +40,6 @@
  - Font Awesome (para os ícones sociais)
  - Google Fonts (para a fonte utilizada)
  - Com o auxílio de IA em certos passos do desenvolvimento.
+
+
+## TODO: Adicionar base 32, 64, 128 e 256
