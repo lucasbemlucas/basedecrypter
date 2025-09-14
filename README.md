@@ -25,7 +25,7 @@
  
  1. Clone o repositório:
     ```bash
-    git clone https://github.com/thematrixbunny/basedecrypter.git
+    git clone https://github.com/lucasbemlucas/basedecrypter.git
  
  2.  Navegue até o diretório do projeto:
  
